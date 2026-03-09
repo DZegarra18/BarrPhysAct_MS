@@ -1,0 +1,22 @@
+---
+title: "Search Strategy"
+output: html_notebook
+---
+
+# EBSCO (Medline, sportdiscuss, Psycinfo, psycarticle, cinahl)
+
+1818 results
+
+**Search strategy**: ((MH "Depression" OR MH "Affective Disorders" OR MH "Depressive Disorder" OR “depressi∗” OR “depressive disorder”)) AND ((MH "Therapeutic Exercise" OR MH "Exercise" OR MH "Physical Activity" OR MH "Exercise Therapy" OR "Exercis∗" OR "exercise Therap∗" OR "Strength training" OR "Resistance training" OR "physical activit∗")) AND ((MH “Behavior” OR MH “Personal Boundaries” OR MH "Patient Preference" OR “preference∗” OR “Adherence” OR “Compliance” OR “expectation∗” OR “barrier∗” OR “limitation∗” OR “motiv∗” OR “reason∗” OR “incentive∗” OR “attitude∗”)) AND (“qualitative” OR “qualitative stud∗”)
+
+# Scopus 
+
+862 results
+
+**Search strategy**: TITLE-ABS-KEY ( "depressi∗" OR "depressive disorder" ) AND TITLE-ABS-KEY ( "Exercis∗" OR "Strength training" OR "Resistance training" OR "physical activit∗" ) AND TITLE-ABS-KEY ( "preference∗" OR "Adherence" OR "Compliance" OR "expectation∗" OR "barrier∗" OR "limitation∗" OR "motiv∗" OR "reason∗" OR "incentive∗" OR "attitude∗" ) AND TITLE-ABS-KEY ("qualitative" OR "qualitative stud∗")
+
+# WOS
+
+1243 results 
+
+**Search strategy**: (((TS=("depressi∗" OR "depressive disorder")) AND TS=(( "Exercis∗" OR "Strength training" OR "Resistance training" OR "physical activit∗")) AND TS=("preference∗" OR "Adherence" OR "Compliance" OR "expectation∗" OR "barrier∗" OR "limitation∗" OR "motiv∗" OR "reason∗" OR "incentive∗" OR "attitude∗" )) AND TS=("qualitative" OR "qualitative stud∗"))
