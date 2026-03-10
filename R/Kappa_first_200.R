@@ -3,7 +3,7 @@ library(stringr)
 library(irr)
 
 #Filtrar y tidy csv
-articles_first_200 <- read.csv("articles_first_200.csv")
+articles_first_200 <- read.csv("../Data/Screening/articles_first_200.csv")
 
 decisions <- articles_first_200|>
             select(notes)
