@@ -1,0 +1,9 @@
+---
+title: "Inclusion/Exclusion Criteria"
+output: html_notebook
+---
+
+The following **inclusion** criteria will be employed: adults between 18 and 65 years old with a diagnosis of depression or dysthymia based on ICD-11 or DSM-5TR criteria by their referring physician or a cutoff score above the clinical threshold. The phenomena under study should be related to barriers, limitations, experiences, preferences or motives regarding the performance of physical activity and/or exercise. Regarding the type of studies, they should be original qualitative studies and no restrictions based on language will be applied.
+
+Studies will be **excluded** if the subjects are pregnant women, have presence of comorbidities such as neurological signs; systemic rheumatoid diseases (including fibromyalgia), central nervous system diseases, presence of severe cognitive impairment or severe mental disorders like schizophrenia or bipolar spectrum disorders.
+
