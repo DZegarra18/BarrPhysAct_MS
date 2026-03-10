@@ -1,0 +1,12 @@
+---
+title: "Barriers and facilitatorsof exercise in people with depression: a qualitative Metasynthesis"
+output: html_notebook
+---
+
+# Materials and Methods
+A Population, Context, Outcome (PCO) search strategy was employed using MESH-or equivalents and Free Terms. An example is provided in Figure 1 and all search strategies can be found in supplementary materials.
+The following databases were searched: EBSCO (Medline, Psycinfo, Psycarticles, SportDiscus, CINAHL), Web of Science (WoS) and Scopus. A total of 3770 articles were extracted. After checking for duplicates 2790 were screened by two independent authors with the following criteria (*Table 1*):
+
+-	Studies will be included if they have adults between 18 and 65 years old with a diagnosis of depression or dysthymia based on ICD-11 or DSM-5TR criteria by their referring physician or a cutoff score above the clinical threshold. The phenomena under study should be related to barriers, limitations, experiences, preferences or motives regarding the performance of physical activity and/or exercise. Regarding the type of studies, they should be original qualitative studies and no restrictions based on language will be applied.
+
+-	Studies will be excluded if the subjects are pregnant women, have presence of comorbidities such as neurological signs; systemic rheumatoid diseases (including fibromyalgia), central nervous system diseases, presence of severe cognitive impairment or severe mental disorders like schizophrenia or bipolar spectrum disorders.
