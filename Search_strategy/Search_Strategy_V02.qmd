@@ -1,16 +1,18 @@
 ---
 title: "Search Strategy"
-format: html
+format: 
+  html:
+    self-contained: true
 editor: visual
 ---
 
-# EBSCO (Medline, sportdiscuss, Psycinfo, psycarticle, cinahl) 
+# EBSCO (Medline, sportdiscuss, Psycinfo, psycarticle, cinahl)
 
 1818 results
 
 **Search strategy:** ((MH "Depression" OR MH "Affective Disorders" OR MH "Depressive Disorder" OR “depressi∗” OR “depressive disorder”)) AND ((MH "Therapeutic Exercise" OR MH "Exercise" OR MH "Physical Activity" OR MH "Exercise Therapy" OR "Exercis∗" OR "exercise Therap∗" OR "Strength training" OR "Resistance training" OR "physical activit∗")) AND ((MH “Behavior” OR MH “Personal Boundaries” OR MH "Patient Preference" OR “preference∗” OR “Adherence” OR “Compliance” OR “expectation∗” OR “barrier∗” OR “limitation∗” OR “motiv∗” OR “reason∗” OR “incentive∗” OR “attitude∗”)) AND (“qualitative” OR “qualitative stud∗”)
 
-# Scopus con filtro quali 
+# Scopus con filtro quali
 
 862 results
 
